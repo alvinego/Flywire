@@ -42,7 +42,7 @@ export const homeObjThree = {
     description: ' We have you covered no matter where you are located. Just pick up your phone and dial our number then leave the rest to us',
     buttonLabel: 'Learn More',
     imgStart: true,
-    img: require('../../images/svg-3.svg').default,    alt: 'Car',
+    img: require('../../images/svg-8.svg').default,    alt: 'Car',
     dark: false,
     primary: false,
     darkText: true,
