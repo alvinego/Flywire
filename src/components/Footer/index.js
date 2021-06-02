@@ -54,7 +54,7 @@ const Footer = () => {
                         </FooterLinkItems>
                         <FooterLinkItems>
                         <FooterLinkTitle> Social Media </FooterLinkTitle>
-                            <FooterLink to='/signin'>Insatgram</FooterLink>
+                            <FooterLink to='/signin'>Instagram</FooterLink>
                             <FooterLink to='/signin'>Facebook</FooterLink>
                             <FooterLink to='/signin'>LinkedIn</FooterLink>
                             <FooterLink to='/signin'>Twitter</FooterLink>
